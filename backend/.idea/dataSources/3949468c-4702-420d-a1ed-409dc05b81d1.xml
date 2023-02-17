@@ -4,12 +4,12 @@
     <root id="1">
       <ServerVersion>15.1</ServerVersion>
     </root>
-    <database id="2" parent="1" name="jwt_security"/>
-    <database id="3" parent="1" name="postgres">
+    <database id="2" parent="1" name="postgres">
       <Current>1</Current>
     </database>
-    <database id="4" parent="1" name="stock"/>
-    <database id="5" parent="1" name="template0"/>
-    <database id="6" parent="1" name="template1"/>
+    <database id="3" parent="1" name="template1"/>
+    <database id="4" parent="1" name="template0"/>
+    <database id="5" parent="1" name="stock"/>
+    <database id="6" parent="1" name="jwt_security"/>
   </database-model>
 </dataSource>
